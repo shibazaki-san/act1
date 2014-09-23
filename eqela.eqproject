@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Act1
+#
+
+projectname: Act1
+vendorid: com.donna.example
+mainmodule: com.donna.example.act1
